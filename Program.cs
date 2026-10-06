@@ -10,6 +10,8 @@ builder.Services.AddOpenApi();
 
 builder.Services.AddScoped<IComissaoService, ComissaoService>();
 
+builder.Services.AddScoped<IEstoqueService, EstoqueService>();
+
 var app = builder.Build();
 
 app.UseMiddleware<ExceptionMiddleware>();

@@ -1,5 +1,7 @@
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/appsettings.Development.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/appsettings.json
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Data/JsonData/estoque.json
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Data/JsonData/vendas.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/desafio_sistema-alvo.staticwebassets.endpoints.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/desafio_sistema-alvo
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/desafio_sistema-alvo.deps.json
@@ -16,6 +18,7 @@
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.csproj.CoreCompileInputs.cache
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.MvcApplicationPartsAssemblyInfo.cs
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.MvcApplicationPartsAssemblyInfo.cache
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.sourcelink.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
@@ -31,4 +34,3 @@
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.pdb
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.genruntimeconfig.cache
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/ref/desafio_sistema-alvo.dll
-/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Data/JsonData/vendas.json
