@@ -34,3 +34,6 @@
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.pdb
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/desafio_sistema-alvo.genruntimeconfig.cache
 /home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/obj/Debug/net10.0/ref/desafio_sistema-alvo.dll
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sergio/Documentos/ProjetosPessoais/Dotnet/desafio_sistema-alvo/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
