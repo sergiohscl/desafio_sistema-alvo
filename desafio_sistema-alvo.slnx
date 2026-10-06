@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../desafio_sistema-alvo.Tests/desafio_sistema-alvo.Tests.csproj" />
+  <Project Path="desafio_sistema-alvo.csproj" />
+</Solution>
